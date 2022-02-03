@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    padding-bottom: 300px;
+}
+
+.jon_snow {
+    width: 100%;
+    margin-bottom: 48px;
+    border: 1px solid #FFFFFF;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    margin-top: 0;
+    height: 58px;
+    width: 270px;
+}
+
+.birth {
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.socials {
+    text-align: center;
+    margin-bottom: 46px;
+}
+
+.social_link {
+    text-decoration: none;
+}
+
+.social_link:hover {
+    position: relative;
+    bottom: 10px;
+}
+
+.text {
+    margin-bottom: 45px;
+    margin-top: 0;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.work_head {
+    width: 230px;
+    height: 36px;
+    margin-bottom: 0;
+}
+
+.description {
+    padding-left: 15px;
+    margin: 10px 0;
+}
+
+.work_exp {
+    color: #FF3232;
+}
+
+.whole_page {
+    display: flex;
+}
+
+.edu_head {
+    margin-top: 45px;
+    margin-left: 5px;
+}
+
+.left {
+    box-sizing: border-box;
+    background-color: #1A142D;
+    width: 310px;
+    padding: 18px;
+    margin: 64px 67px 63px 57px;
+}
+
+.right {
+    box-sizing: border-box;
+    width: 467px;
+    margin: 48px 123px 108px 0;
+    padding-top: 0;
+}
+
+.gallery {
+    box-sizing: border-box;
+    display: flex;
+    margin-top: 15px;
+    margin-left: 42px;
+}
+
+.gallery_item {
+    margin: 89px 14.5px 59px 14.5px;
+    width: 206px;
+    height: 206px;
+    position: relative;
+}
+
+.gallery_lbl {
+    display: none;
+    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+
+    background-color: #1A142D;
+    color: #FFFFFF;
+    font-size: 12px;
+
+    padding: 5px 12px;
+    margin: 0;
+}
+
+
+.gallery_item:hover .gallery_lbl {
+    display: block;
+}

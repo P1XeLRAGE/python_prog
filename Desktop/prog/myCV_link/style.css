@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+.pdf_file {
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    padding: 10px;
+    min-height: 100vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0px;
+    background-color: rgb(82, 86, 89);
+}
+

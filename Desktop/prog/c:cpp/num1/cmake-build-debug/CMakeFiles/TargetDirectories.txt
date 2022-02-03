@@ -1,0 +1,3 @@
+/Users/artemsushko/Desktop/prog/c:cpp/num1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/artemsushko/Desktop/prog/c:cpp/num1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artemsushko/Desktop/prog/c:cpp/num1/cmake-build-debug/CMakeFiles/num1.dir
